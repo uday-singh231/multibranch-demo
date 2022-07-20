@@ -1,5 +1,5 @@
 node {
     stage ('shell exec') {
-        sh 'echo "Hello World'
+        sh 'echo "Hello World"'
     }
 }
